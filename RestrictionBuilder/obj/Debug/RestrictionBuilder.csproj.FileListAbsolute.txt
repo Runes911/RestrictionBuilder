@@ -1,0 +1,6 @@
+C:\Users\allie\OneDrive\Visual Studio Projects\RestrictionBuilder\RestrictionBuilder\bin\Debug\RestrictionBuilder.exe.config
+C:\Users\allie\OneDrive\Visual Studio Projects\RestrictionBuilder\RestrictionBuilder\bin\Debug\RestrictionBuilder.exe
+C:\Users\allie\OneDrive\Visual Studio Projects\RestrictionBuilder\RestrictionBuilder\bin\Debug\RestrictionBuilder.pdb
+C:\Users\allie\OneDrive\Visual Studio Projects\RestrictionBuilder\RestrictionBuilder\obj\Debug\RestrictionBuilder.csprojResolveAssemblyReference.cache
+C:\Users\allie\OneDrive\Visual Studio Projects\RestrictionBuilder\RestrictionBuilder\obj\Debug\RestrictionBuilder.exe
+C:\Users\allie\OneDrive\Visual Studio Projects\RestrictionBuilder\RestrictionBuilder\obj\Debug\RestrictionBuilder.pdb
